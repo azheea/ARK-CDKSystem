@@ -62,7 +62,7 @@ python manage.py runserver 0.0.0.0:8000
 
 可以设置单个CDKey的使用次数
 
-执行的命令是角色的id，id表由[Sakura616](https://github.com/Einsam616)整理，感谢！ 多条命令用回车隔开。
+执行的命令是角色的id，[id表](https://github.com/azheea/ARK-CDKSystem/blob/main/%E6%96%B9%E8%88%9F%E7%89%A9%E5%93%81ID.txt)由[Sakura616](https://github.com/Einsam616)整理，感谢！ 多条命令用回车隔开。
 
 多条命令快速执行可能会引发异常问题，可以在其间隔添加延时指令
 ```shell
